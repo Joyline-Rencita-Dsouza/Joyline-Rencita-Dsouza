@@ -3,43 +3,12 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 
-
 - 🔭 I’m currently working on **Front End Project**
 
 - 🌱 I’m currently learning **Mern Stack**
 
 <!-- - 👨‍💻 I’m looking to collaborate on **https://reimagine.sheryians.com/**. -->
 
-- 👨‍💻 All of my projects are available at <a href="https://devloper-divyanshu.netlify.app/" target="_blank">Personal Portfolio</a>.
-
-- 💬 Ask me about **Javascript, PHP, Wordpress, Git & Github**
-
-- 📫 How to reach me **divyanshubartwal67@gmail.com**
-
-- 📄 Know about my experiences [Divyanshu_Resume](https://devloper-divyanshu.netlify.app/Divyanshu_FrontendDeveloper.pdf)
-
-
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/divyanshu-bartwal-b7b058286/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/DivyanshuB21040" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://divyanshubartwal67@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://codesandbox.io/u/divyanshubartwal67" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
-  </a>
-  <a href="https://www.instagram.com/divyanshu_brtwl07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.behance.net/divyansbartwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-</div>
 
 # 💻 Tech Stack:
 <div align="center">
