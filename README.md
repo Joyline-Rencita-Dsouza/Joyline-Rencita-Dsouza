@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="Vite" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" title="Vercel" style="margin-right: 14px;" />
 <!--     <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" /> -->
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
 
 # 📊 GitHub Stats:
 <div align="center">
