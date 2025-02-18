@@ -62,12 +62,10 @@
 </div>
 
 
-
-
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joyline-Rencita-Dsouza&theme=onedark&no-frame=false&margin-w=4)
 
-# 🌄 GitHub Activity
+ # 🌄 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joyline-Rencita-Dsouza&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 ### 🔝 Top Contributed Repo
