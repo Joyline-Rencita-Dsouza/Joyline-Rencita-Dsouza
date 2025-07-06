@@ -8,7 +8,7 @@
 
 <!-- - 👨‍💻 I’m looking to collaborate on **https://reimagine.sheryians.com/**. -->
 
-
+<!--
 # 💻 Tech Stack:
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" style="margin-right: 14px;" />
@@ -53,7 +53,7 @@
     <img src="https://github.com/Joyline-Rencita-Dsouza/icon/blob/main/celonis_logo.png?raw=true"
      height="40" alt="Celonis logo" title="Celonis"
      style="margin-right:14px; border-radius:8px;" />
-</div>
+</div> -->
 
 # 📊 GitHub Stats:
 <div align="center">
