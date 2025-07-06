@@ -10,37 +10,38 @@
 
 
 # 💻 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px; padding: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" title="Jupyter Notebook" />
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" title="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" title="CSS" />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" title="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" title="MySQL" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" title="Bootstrap" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" title="VSCode" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" title="Git" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" title="GitHub" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" title="MongoDB" />
-    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo" title="React" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" title="Node.js" />
-    <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js logo" title="Vue.js" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo" title="TailwindCSS" />
-    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery logo" title="jQuery" />
-    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Photoshop logo" title="Adobe Photoshop" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" title="PHP" />
-    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" title="WordPress" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" title="Angular" />
-    <img src="https://cdn.simpleicons.org/express/white" height="40" alt="Express.js logo" title="Express.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" title="Canva" />
-    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" title="Netlify" />
-    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" title="Vite" />
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" title="Vercel" />
-    <img src="https://skillicons.dev/icons?i=atom" height="40" alt="Atom logo" title="Atom" />
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop logo" title="Adobe Photoshop" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" style="margin-right: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" style="margin-right: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" style="margin-right: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" title="Jupyter Notebook" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" title="HTML" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" title="CSS" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" title="JavaScript" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" title="MySQL" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" title="Bootstrap" style="margin-right: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" title="VSCode" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL logo" title="SQL" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" title="Git" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" title="GitHub" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" title="MongoDB" style="margin-right: 14px;" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo" title="React" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" title="Node.js" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js logo" title="Vue.js" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" title="PostgreSQL" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo" title="TailwindCSS" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery logo" title="jQuery" style="margin-right: 14px;" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Adobe Photoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" title="PHP" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" title="WordPress" style="margin-right: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" title="Angular" style="margin-right: 14px;" />
+  <img src="https://cdn.simpleicons.org/express/white" height="40" alt="Express.js logo" title="Express.js" style="margin-right: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" title="Canva" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" title="Netlify" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" title="Vite" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" title="Vercel" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=atom" height="40" alt="Atom logo" title="Atom" style="margin-right: 14px;" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
 </div>
 
 # 📊 GitHub Stats:
