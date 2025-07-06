@@ -49,7 +49,7 @@
     <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" title="Vercel" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo" title="Atom" style="margin-right: 14px;" />
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
-
+</div>
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joyline-Rencita-Dsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="border: 2px solid grey; border-radius: 5px;" />
