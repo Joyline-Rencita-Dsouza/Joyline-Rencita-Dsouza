@@ -9,8 +9,7 @@
 
 
 # 💻 Tech Stack:
-<div align="center">
-  <h2>🛠 Languages and Tools 🛠</h2>
+
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" style="margin-right: 14px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" style="margin-right: 14px;" />
@@ -53,8 +52,7 @@
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="Adobe Photoshop" style="margin-right: 14px;" />
     <img src="https://github.com/Joyline-Rencita-Dsouza/icon/blob/main/celonis_logo.png?raw=true" height="40" alt="Celonis logo" title="Celonis" style="margin-right:14px; border-radius:8px;" />
   </div>
-</div>
-<br> 
+
 
 # 📊 GitHub Stats:
 <div align="center">
