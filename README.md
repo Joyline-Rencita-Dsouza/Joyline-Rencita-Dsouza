@@ -60,7 +60,7 @@
   
   <img src="https://streak-stats.demolab.com?user=Joyline-Rencita-Dsouza&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="border: 2px solid grey; border-radius: 5px;" />
   
-<!  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joyline-Rencita-Dsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" style="border: 2px solid grey; border-radius: 5px;" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joyline-Rencita-Dsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" style="border: 2px solid grey; border-radius: 5px;" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyline-Rencita-dsouza&theme=radical&hide_border=true" height="150" alt="Repos Per Language" style="border: 2px solid grey; border-radius: 5px;" />
 </div>
