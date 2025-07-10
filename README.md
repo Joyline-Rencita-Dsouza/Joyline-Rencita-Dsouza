@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 
-- 🔭 I’m currently working on **Front End Project**
+- 🔭 I’m working on **Front End Project**
 
 - 🌱 I’m currently learning **Mern Stack**
 
